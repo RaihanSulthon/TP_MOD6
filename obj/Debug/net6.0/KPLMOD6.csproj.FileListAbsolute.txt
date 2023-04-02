@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\KPLMOD6\bin\Debug\net6.0\KPLMOD6.exe
+C:\Users\ASUS\source\repos\KPLMOD6\bin\Debug\net6.0\KPLMOD6.deps.json
+C:\Users\ASUS\source\repos\KPLMOD6\bin\Debug\net6.0\KPLMOD6.runtimeconfig.json
+C:\Users\ASUS\source\repos\KPLMOD6\bin\Debug\net6.0\KPLMOD6.dll
+C:\Users\ASUS\source\repos\KPLMOD6\bin\Debug\net6.0\KPLMOD6.pdb
+C:\Users\ASUS\source\repos\KPLMOD6\obj\Debug\net6.0\KPLMOD6.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\KPLMOD6\obj\Debug\net6.0\KPLMOD6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\KPLMOD6\obj\Debug\net6.0\KPLMOD6.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KPLMOD6\obj\Debug\net6.0\KPLMOD6.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KPLMOD6\obj\Debug\net6.0\KPLMOD6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KPLMOD6\obj\Debug\net6.0\KPLMOD6.dll
+C:\Users\ASUS\source\repos\KPLMOD6\obj\Debug\net6.0\refint\KPLMOD6.dll
+C:\Users\ASUS\source\repos\KPLMOD6\obj\Debug\net6.0\KPLMOD6.pdb
+C:\Users\ASUS\source\repos\KPLMOD6\obj\Debug\net6.0\KPLMOD6.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\KPLMOD6\obj\Debug\net6.0\ref\KPLMOD6.dll
